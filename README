@@ -1,0 +1,4 @@
+Per http://microformats.org/wiki/rest/urls
+
+: POST /people/1?_method=DELETE
+: 'alias for DELETE, to compensate for browser limitations'
